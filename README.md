@@ -1,1 +1,2 @@
 # CURSO-BASICO-JS-POO
+- Repositorio del Curso Basico de POO en JS, utilizando los 4 paradigmas de la Programacion Orientada a Objeto en Java, realizando ejercicios basicos con todos los conceptos implementados en el código.
